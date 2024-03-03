@@ -164,6 +164,13 @@ body
     background: aqua;
 }
 
+
+.contactInfor .text
+{
+    color: #fff;
+    font-weight: 300;
+    text-decoration: none;
+}
 /* right_side */
 .about
 {
